@@ -4,3 +4,4 @@
     curso: <input name="curso"><br>
     horas: <input name="horas"><br>
     <button type="submit">guardar</br>
+    <a href="leer.php">leer</a>

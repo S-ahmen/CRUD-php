@@ -11,7 +11,9 @@ echo "<tr>";
 echo "<td>" . $exp->id . "</td>";
 echo "<td>" . $exp->titulo . "</td>";
 echo "<td>" . $exp->curso . "</td>";
-echo "<td>" , $exp->horas  . "</td>";
+echo "<td>" . $exp->horas . "</td>";
 echo "</tr>";
 }
+echo "<a href='nuevo.php'>add</a>";
+
 echo "</table>";
