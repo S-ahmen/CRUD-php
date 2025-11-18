@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<expdientes>
+<expidiente>
+    <id>1</id>
+    <titulo>exemplo</titulo>
+    <curso>Desarollo Web</curso>
+    <horas>150</horas>
+</expidiente>
+</expdientes>
